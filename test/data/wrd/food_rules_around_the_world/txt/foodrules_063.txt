@@ -1,0 +1,2 @@
+['・alcoholic', ' ', 'beverages']
+[1, 0, 1]

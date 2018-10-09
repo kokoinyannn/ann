@@ -1,0 +1,2 @@
+['Hari', ' ', 'Raya', ' ', 'AidilFitri', ' ', 'is', ' ', 'the', ' ', 'biggest', ' ', 'holiday', ' ', 'on', ' ', 'the', ' ', 'Muslim', ' ', 'calendar', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

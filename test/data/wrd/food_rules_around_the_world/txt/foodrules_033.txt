@@ -1,0 +1,2 @@
+['In\xa0Islam', ',', '\xa0the\xa0concept\xa0of\xa0halal\xa0is\xa0followed\xa0in', ' ', 'the', ' ', 'diet', ' ', 'and', ' ', 'in', ' ', 'daily', ' ', 'life', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

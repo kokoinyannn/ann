@@ -1,0 +1,2 @@
+['Most', ' ', 'people', ' ', 'take', ' ', 'down', ' ', 'Christmas', ' ', 'trees', ' ', 'around', ' ', 'January', ' ', '3rd', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

@@ -1,0 +1,2 @@
+['Not', ' ', 'canned', ' ', 'coffee―freshly', ' ', 'made', ' ', 'coffee', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

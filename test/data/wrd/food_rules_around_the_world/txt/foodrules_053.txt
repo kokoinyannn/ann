@@ -1,0 +1,2 @@
+['In', ' ', 'Hinduism', ', ', 'eating', ' ', 'meat', ' ', 'is', ' ', 'not', ' ', 'prohibited', ', ', 'but', ' ', 'many', ' ', 'people', ' ', 'are', ' ', 'vegetarians', ' ', 'or', ' ', 'avoid', ' ', 'eating', ' ', 'meat', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

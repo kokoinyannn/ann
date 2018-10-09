@@ -1,0 +1,2 @@
+['・pork', ': ', 'All', ' ', 'pork', ' ', 'products', ', ', 'including', ' ', 'meat', ',  ', 'gelatin\xa0and', ' ', 'lard', ',', '\xa0are', ' ', 'prohibited', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

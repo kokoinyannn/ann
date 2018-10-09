@@ -1,0 +1,2 @@
+['Muslims', ' ', 'are', ' ', 'allowed', ' ', 'to', ' ', 'eat', ' ', 'meat', ' ', 'other', ' ', 'than', ' ', 'pork', ', ', 'but', ' ', 'the', ' ', 'animals', ' ', 'are', ' ', 'supposed', ' ', 'to', ' ', 'be', ' ', 'slaughtered', ' ', 'according', ' ', 'to', ' ', 'halal', ' ', 'methods', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

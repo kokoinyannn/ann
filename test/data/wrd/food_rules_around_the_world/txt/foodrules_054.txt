@@ -1,0 +1,2 @@
+['Hindus', ' ', 'respect', ' ', 'life', ', ', 'and', ' ', 'generally', ' ', 'do', ' ', 'not', ' ', 'like', ' ', 'killing', ' ', 'animals', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

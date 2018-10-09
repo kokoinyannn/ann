@@ -1,0 +1,2 @@
+['During', ' ', 'the', ' ', 'New', ' ', 'Year', ' ', 'season', ', ', 'Chinese', ' ', 'people', ' ', 'decorate', ' ', 'their', ' ', 'doorways', ' ', 'and', ' ', 'streets', ' ', 'with', ' ', 'red', ' ', 'lanterns', ' ', 'and', ' ', 'other', ' ', 'red', ' ', 'decorations', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

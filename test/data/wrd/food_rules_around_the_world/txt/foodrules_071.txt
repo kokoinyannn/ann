@@ -1,0 +1,2 @@
+['Many', ' ', 'Hindus', ' ', 'are', ' ', 'vegetarians', ' ', 'for', ' ', 'reasons', ' ', 'related', ' ', 'to', ' ', 'their', ' ', 'religious', ' ', 'beliefs', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

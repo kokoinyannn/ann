@@ -1,0 +1,2 @@
+['People', ' ', 'can', ' ', 'enjoy', ' ', 'beautiful', ' ', 'and', ' ', 'fancy', ' ', 'osechi', ' ', 'made', ' ', 'by', ' ', 'famous', ' ', 'food', ' ', 'companies', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

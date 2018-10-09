@@ -1,0 +1,2 @@
+['Prohibited\xa0foods\xa0are\xa0called\xa0haram', ' ', 'foods', '.']
+[1, 0, 1, 0]

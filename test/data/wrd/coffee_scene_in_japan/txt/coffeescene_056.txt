@@ -1,0 +1,2 @@
+['What', ' ', 'is', ' ', 'important', ' ', 'to', ' ', 'you', ': ', 'taste', ', ', 'price', ', ', 'atmosphere', ', ', 'or', ' ', 'convenience', '?']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

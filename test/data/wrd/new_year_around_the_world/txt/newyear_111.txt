@@ -1,0 +1,2 @@
+['This', ' ', 'was', ' ', 'the', ' ', 'season', ' ', 'when', ' ', 'Japanese', ' ', 'apricot', ' ', 'trees', ' ', 'started', ' ', 'blooming', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

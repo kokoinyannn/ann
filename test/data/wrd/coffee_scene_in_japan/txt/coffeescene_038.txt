@@ -1,0 +1,2 @@
+['Convenience', ' ', 'stores', ' ', 'started', ' ', 'selling', ' ', 'their', ' ', 'own', ' ', 'coffee', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

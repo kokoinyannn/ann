@@ -1,0 +1,2 @@
+['Starbucks', ' ', 'offered', ' ', 'drinks', ' ', 'made', ' ', 'with', ' ', 'espresso', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

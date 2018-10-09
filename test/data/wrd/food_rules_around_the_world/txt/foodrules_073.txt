@@ -1,0 +1,2 @@
+['The', ' ', 'reasons', ' ', 'may', ' ', 'be', ' ', 'health', '-', 'related', ', ', 'ethical', ' ', 'or', ' ', 'environmental', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

@@ -1,0 +1,2 @@
+['caffè', ' ', 'latte', ', ', 'cappuccino', ', ', 'and', ' ', 'espresso', ' ', 'macchiato', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

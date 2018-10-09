@@ -1,0 +1,2 @@
+['The', ' ', 'number', ' ', 'of', ' ', 'people', ' ', 'who', ' ', 'write', ' ', 'nengajo', ' ', 'is', ' ', 'decreasing', ', ', 'because', ' ', 'of', ' ', 'the', ' ', 'popularity', ' ', 'of', ' ', 'social', ' ', 'networking', ' ', 'services', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

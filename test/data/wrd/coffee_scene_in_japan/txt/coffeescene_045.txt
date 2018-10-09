@@ -1,0 +1,2 @@
+['And', ' ', 'there', ' ', 'are', ' ', 'convenience', ' ', 'stores', ' ', 'everywhere', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

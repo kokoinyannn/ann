@@ -1,0 +1,2 @@
+['Convenience', ' ', 'Store', ' ', 'Coffee']
+[1, 0, 1, 0, 1]

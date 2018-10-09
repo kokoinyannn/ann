@@ -1,0 +1,2 @@
+['Japan', ' ', 'has', ' ', 'followed', ' ', 'the', ' ', 'Gregorian', ' ', 'calendar', ' ', 'since', ' ', 'the', ' ', 'Meiji', ' ', 'era', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

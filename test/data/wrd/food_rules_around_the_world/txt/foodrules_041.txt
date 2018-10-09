@@ -1,0 +1,2 @@
+['・alcoholic', ' ', 'beverages', ': ', 'In', ' ', 'addition', ', ', 'the', ' ', 'Japanese', ' ', 'seasoning', ' ', 'mirin', ' ', 'may', ' ', 'not', ' ', 'be', ' ', 'used', ' ', 'in', ' ', 'foods', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

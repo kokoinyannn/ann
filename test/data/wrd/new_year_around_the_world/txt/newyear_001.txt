@@ -1,0 +1,2 @@
+['New', ' ', 'Year', ' ', 'Celebrations', ' ', 'around', ' ', 'the', ' ', 'World']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]

@@ -1,0 +1,2 @@
+['Different', ' ', 'groups', ' ', 'celebrate', ' ', 'different', ' ', 'holidays', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

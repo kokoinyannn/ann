@@ -1,0 +1,2 @@
+['Halal\xa0means\xa0', '“', 'lawful', '”', '\xa0or\xa0', '“', 'permitted', '.”']
+[1, 0, 1, 0, 1, 0, 1, 0]

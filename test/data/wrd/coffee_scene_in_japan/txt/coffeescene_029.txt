@@ -1,0 +1,2 @@
+['People', ' ', 'also', ' ', 'enjoy', ' ', 'spending', ' ', 'time', ' ', 'in', ' ', 'Starbucks', ' ', 'coffeehouses', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

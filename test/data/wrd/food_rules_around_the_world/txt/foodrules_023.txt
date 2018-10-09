@@ -1,0 +1,2 @@
+['Some', ' ', 'people', ' ', 'who', ' ', 'are', ' ', 'not', ' ', 'Jewish', ' ', 'also', ' ', 'look', ' ', 'for', ' ', 'foods', ' ', 'labeled', '  “', 'kosher', ',” ', 'because', ' ', 'they', ' ', 'think', ' ', 'kosher', ' ', 'foods', ' ', 'are', ' ', 'cleaner', ' ', 'and', ' ', 'higher', '-', 'quality', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

@@ -1,0 +1,2 @@
+['The', ' ', 'spirit', ' ', 'of', ' ', 'the', ' ', 'hand', ' ', 'drip', ' ', 'was', ' ', 'influenced', ' ', 'by', ' ', 'classic', ' ', 'Japanese', ' ', 'coffeehouses', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

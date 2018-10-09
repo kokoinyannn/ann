@@ -1,0 +1,2 @@
+['Celebrated', ' ', 'by', ' ', 'people', ' ', 'of', ' ', 'Chinese', ' ', 'descent']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]

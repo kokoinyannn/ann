@@ -1,0 +1,17 @@
+div.wd{
+	display:inline-block;
+}
+span.space{
+	display:inline-block;
+}
+div.sylbf{
+	position: absolute;
+	display:none;
+}
+div#stc{
+	height: 200px;
+}
+div.next_step button{
+	float: right;
+	margin: 50px;
+}

@@ -1,0 +1,2 @@
+['Thailand', ' ', 'has', ' ', 'a', ' ', 'unique', ' ', 'New', ' ', 'Year', ' ', 'festival', ', ', 'called', ' ', 'Songkran', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

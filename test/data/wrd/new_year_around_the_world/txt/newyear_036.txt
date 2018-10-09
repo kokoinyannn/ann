@@ -1,0 +1,2 @@
+['Millions', ' ', 'of', ' ', 'people', ' ', 'travel', ' ', 'during', ' ', 'this', ' ', 'period', '!']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

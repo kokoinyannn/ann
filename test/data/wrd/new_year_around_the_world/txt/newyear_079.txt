@@ -1,0 +1,2 @@
+['Muslims', ' ', 'celebrate', ' ', 'AidilFitri', ' ', 'as', ' ', 'the', ' ', 'Festival', ' ', 'of', ' ', 'the', ' ', 'Breaking', ' ', 'of', ' ', 'the', ' ', 'Fast', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

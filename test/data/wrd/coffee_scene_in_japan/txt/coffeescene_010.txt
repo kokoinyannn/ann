@@ -1,0 +1,2 @@
+['Starbucks—The', ' ', 'Seattle', '-', 'style', ' ', 'Coffeehouse']
+[1, 0, 1, 0, 1, 0, 1]

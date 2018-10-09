@@ -1,0 +1,2 @@
+['Many', ' ', 'people', ' ', 'have', ' ', 'become', ' ', 'familiar', ' ', 'with', ' ', 'different', ' ', 'ways', ' ', 'to', ' ', 'drink', ' ', 'coffee', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

@@ -1,0 +1,2 @@
+['Some', ' ', 'Hindu', ' ', 'people', ' ', 'follow', ' ', 'food', ' ', 'guidelines', ' ', 'more', ' ', 'strictly', ' ', 'than', ' ', 'others', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

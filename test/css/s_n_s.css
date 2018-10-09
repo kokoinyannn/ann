@@ -1,0 +1,14 @@
+td.blue{
+	color: blue;
+}
+td{
+	height: 50px;
+	min-width: 15px;
+	text-align: center;
+}
+div.invi{
+	display: none;
+}
+div.result{
+	display: none;
+}

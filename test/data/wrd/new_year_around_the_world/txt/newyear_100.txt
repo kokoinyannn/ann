@@ -1,0 +1,2 @@
+['This', ' ', 'act', ' ', 'symbolizes', ' ', 'cleansing', '.']
+[1, 0, 1, 0, 1, 0, 1, 0]

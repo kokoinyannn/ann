@@ -1,0 +1,2 @@
+['For', ' ', 'example', ', ', 'eating', ' ', 'a', ' ', 'cheeseburger', ' ', 'goes', ' ', 'against', ' ', 'this', ' ', 'rule', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

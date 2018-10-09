@@ -1,0 +1,2 @@
+['These', ' ', 'five', ' ', 'companies', ' ', 'want', ' ', 'to', ' ', 'have', ' ', 'regular', ' ', 'coffee', ' ', 'buyers', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

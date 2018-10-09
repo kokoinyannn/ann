@@ -1,0 +1,2 @@
+['They', ' ', 'visit', ' ', 'their', ' ', 'family', ' ', 'members', ' ', 'and', ' ', 'relatives', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

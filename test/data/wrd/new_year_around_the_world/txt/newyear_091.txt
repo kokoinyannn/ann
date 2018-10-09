@@ -1,0 +1,2 @@
+['Houses', ' ', 'and', ' ', 'towns', ' ', 'are', ' ', 'decorated', ' ', 'with', ' ', 'candles', ', ', 'lanterns', ' ', 'and', ' ', 'kolams', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

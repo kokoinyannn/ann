@@ -1,0 +1,2 @@
+['There', ' ', 'are', ' ', 'different', ' ', 'ways', ' ', 'of', ' ', 'celebrating', ' ', 'the', ' ', 'New', ' ', 'Year', ' ', 'from', ' ', 'country', ' ', 'to', ' ', 'country', ' ', 'and', ' ', 'from', ' ', 'culture', ' ', 'to', ' ', 'culture', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

@@ -1,0 +1,2 @@
+['The', ' ', 'number', ' ', 'of', ' ', 'vegetarians', ' ', 'is', ' ', 'increasing', ', ', 'mainly', ' ', 'in', ' ', 'Europe', ' ', 'and', ' ', 'North', ' ', 'America', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

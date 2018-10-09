@@ -1,0 +1,2 @@
+['Osechi', ' ', 'is', ' ', 'traditional', ' ', 'Japanese', ' ', 'New', ' ', 'Year', ' ', 'food', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

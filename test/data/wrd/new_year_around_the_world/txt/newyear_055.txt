@@ -1,0 +1,2 @@
+['There', ' ', 'are', ' ', 'Malays', ', ', 'people', ' ', 'of', ' ', 'Chinese', ' ', 'descent', ' ', 'and', ' ', 'Indian', ' ', 'descent', ', ', 'and', ' ', 'indigenous', ' ', 'people', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]

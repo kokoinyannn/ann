@@ -1,0 +1,2 @@
+['They', ' ', 'clean', ' ', 'their', ' ', 'houses', ' ', 'thoroughly', ' ', 'and', ' ', 'buy', ' ', 'new', ' ', 'clothes', ' ', 'in', ' ', 'preparation', ' ', 'for', ' ', 'this', ' ', 'day', '.']
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
